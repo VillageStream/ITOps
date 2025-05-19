@@ -16,22 +16,28 @@ SQL Server日常运维中同仁误删除Table资料，执行恢复时对整个�
 
 
 #选择数据对象
+
 ![Image](https://github.com/user-attachments/assets/47a4df6d-3e0b-4301-b33d-eef4e6aae101)
 ![Image](https://github.com/user-attachments/assets/0674140a-8f81-4306-9f8b-105ffdc3b6e1)
 
 #选择需要的对象或表
+
 ![Image](https://github.com/user-attachments/assets/27057646-dd6f-4ed8-bd47-58ed9d2cf854)
 
 #选择右侧‘Advanced’高阶选项中‘Types of data to script’->‘Data Only’
+
 ![Image](https://github.com/user-attachments/assets/b191fa83-8758-4b84-ad2f-683454d5f7eb)
 
 #选择存放位置
+
 ![Image](https://github.com/user-attachments/assets/a3fd5a45-cff4-467a-94fb-562f115fa18b)
 
 #生成概要文件
+
 ![Image](https://github.com/user-attachments/assets/40db2cde-d949-45f9-96d0-d569f07e3f9e)
 
 #执行情况
+
 ![Image](https://github.com/user-attachments/assets/ff522bf9-c894-4c62-a69b-b0f63e6837e9)
 
 #查看SQL文本生成的语句
